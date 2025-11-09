@@ -15,6 +15,8 @@ The notebook walks through:
 The goal is to understand how puzzle difficulty and frequency reflect player skill progression and Lichess’s rating system.
 
 ---
+
+## Puzzle Example
 <a href="url"><img src="/example1.png" align="left" height="300" width="300" ></a>
 <a href="url"><img src="/example2.png" align="left" height="300" width="300" ></a>
 
